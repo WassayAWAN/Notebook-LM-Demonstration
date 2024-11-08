@@ -16,4 +16,7 @@ This repository contains a demonstration of Google’s NotebookLM capabilities f
 **Q&A Interaction:** Asked specific questions related to the document (e.g., "What are the key design principles?"), and NotebookLM generated responses by extracting relevant text from the document.
 
 **NOTENOOK LM DEMONTRATION LINK**
+
+https://notebooklm.google.com/notebook/f9c9621f-c726-46b8-997c-0eed1c348572?_gl=1*4eduh6*_ga*NTEwMDEwNzUwLjE3MzA4NzY3MzU.*_ga_W0LDH41ZCB*MTczMDg5MDYzMi4yLjEuMTczMDg5MTI0MS40MC4wLjA.
+
 https://notebooklm.google.com/notebook/f9c9621f-c726-46b8-997c-0eed1c348572?_gl=1*4eduh6*_ga*NTEwMDEwNzUwLjE3MzA4NzY3MzU.*_ga_W0LDH41ZCB*MTczMDg5MDYzMi4yLjEuMTczMDg5MTI0MS40MC4wLjA.
